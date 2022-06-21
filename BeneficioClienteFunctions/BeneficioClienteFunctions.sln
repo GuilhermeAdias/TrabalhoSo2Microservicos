@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeneficioClienteFunctions", "BeneficioClienteFunctions.csproj", "{0E1D5CD1-E47F-42CD-B4DC-54195511EB0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastrarBeneficoFunction", "..\CadastrarBeneficoFunction\CadastrarBeneficoFunction.csproj", "{3597F82C-724D-438D-8FFB-8F1FA9D35553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E1D5CD1-E47F-42CD-B4DC-54195511EB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1D5CD1-E47F-42CD-B4DC-54195511EB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1D5CD1-E47F-42CD-B4DC-54195511EB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1D5CD1-E47F-42CD-B4DC-54195511EB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3597F82C-724D-438D-8FFB-8F1FA9D35553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3597F82C-724D-438D-8FFB-8F1FA9D35553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3597F82C-724D-438D-8FFB-8F1FA9D35553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3597F82C-724D-438D-8FFB-8F1FA9D35553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B0B419-C118-44AD-B2E5-D3401A5AA4D0}
+	EndGlobalSection
+EndGlobal
